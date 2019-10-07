@@ -1,2 +1,2 @@
-Hallo di Gnag!
-2+2=6;
+Hallo di Gang!
+2+2=4;
